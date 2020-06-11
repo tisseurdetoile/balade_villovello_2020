@@ -2,13 +2,11 @@
 title: Balades pour cycliste starter pack 2020
 ---
 
-## Préambule
+## Avant de partir
 
-Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de ce balader cheuveux au vent au guidon de votre petite reine qui ne demande qu'a parcouris de nouveau horion.
+Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de ce balader cheveux au vent au guidon de votre petite reine qui ne demande qu'a parcourir de nouveau horion. [\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quattres balades de 20km à 35km faciles et accessible. De bonne idée pour un pic-nique. Quatre sorties pour découvrir les alentours de notre belle ville de niort.
 
-[\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quattres balades de 20km à 35km faciles et accessible. De bonne idée pour un pic-nique.
-
-Quatre sorties pour découvrir les alentours de notre belle ville de niort.
+Avant de sauter sur votre fidèle destrier rappelons que vous devez vérifier au minimum (la pression des pneus, les freins, l'état général du vélo et la météo). Un problème évité c'est autant de plaisir gagné. Emportez aussi de quoi vous désaltérer et vous sustentez durant votre balade.
 
 1. Le marais par la sèvres
 1. balade 2
