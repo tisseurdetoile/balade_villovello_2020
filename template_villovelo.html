@@ -10,6 +10,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="generator" content="pandoc" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Fira+Code"
+      rel="stylesheet"
+    />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, user-scalable=yes"
@@ -35,14 +39,20 @@
     <a name="top" />
     $for(include-before)$ $include-before$ $endfor$ $if(title)$
     <header id="title-block-header">
-      <h1 class="title">$title$</h1>
-      $if(subtitle)$
-      <p class="subtitle">$subtitle$</p>
-      $endif$ $for(author)$
-      <p class="author">$author$</p>
-      $endfor$ $if(date)$
-      <p class="date">$date$</p>
-      $endif$
+      <div class="overlay">
+        <h1 class="title">$title$</h1>
+        $if(subtitle)$
+        <p class="subtitle">$subtitle$</p>
+        $endif$ $for(author)$
+        <p class="author">$author$</p>
+        $endfor$ $if(date)$
+        <p class="date">$date$</p>
+        $endif$
+        <div id="logo">
+          <!-- <a href="http://www.perdU.com"><img src="./images/logo.png" /></a> -->
+          <a href="https://www.villovelo.org/" class="logovillovelo"></a>
+        </div>
+      </div>
     </header>
     $endif$ $if(toc)$
     <nav id="$idprefix$TOC" role="doc-toc">
