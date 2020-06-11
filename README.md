@@ -1,12 +1,14 @@
-# Balades pour cycliste starter pack 2020
+---
+title: Balades pour cycliste starter pack 2020
+---
 
-![VilloVello](./images/logo.png)\
+## Préambule
 
 Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de ce balader cheuveux au vent au guidon de votre petite reine qui ne demande qu'a parcouris de nouveau horion.
 
-@VilliVelo vous proposes quattres balades de (nb de km) a (nb de km) faciles et accessible. De bonne idée pour un pic-nique.
+[\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quattres balades de 20km à 35km faciles et accessible. De bonne idée pour un pic-nique.
 
-Quattres sorties pour découvrir les alentours de notre belle ville de niort.
+Quatre sorties pour découvrir les alentours de notre belle ville de niort.
 
 1. Le marais par la sèvres
 1. balade 2
@@ -19,11 +21,11 @@ Quattres sorties pour découvrir les alentours de notre belle ville de niort.
 
 ![carte_balade_01](./images/balade_01_carte.png)
 
-- 17 km
+- Départ:Niort -> Arrivé:Coulon 17 km
 - 90 % de chemin sans voiture
 - idéal pour une balade familiale
 - la classique des classiques
-- liens vers le tracé
+- liens vers le tracé [ici](./gpx/balade_01.gpx)
 
 ![port_boinot](./images/balade_01_port_boinot.png)
 
@@ -33,17 +35,16 @@ Passez sous le pont du boulevard Willy Brand vous suivrez un chemin de terre ent
 
 ![pont_roussille](./images/balade_01_roussille.png)
 
-Devant vous un pont bleu, vous devrez le traverser pour poursuivre votre chemin dans le marais en direction de Magné. L'entrée de la ville est marqué par un pont vert à bascule, ne le prenez pas tourner à droite sur le chemin de terre.
+Arrivé en vue du **pont de la Roussile** vous devrez le traverser pour poursuivre votre chemin dans le marais en direction de Magné. L'entrée de la ville est marqué par un **pont vert à bascule**, ne le prenez pas tourner à droite sur le chemin de terre.
 
 ![pont_bascule_magne](./images/balade_01_pont.png)
 
-Vous cheminerez en suivant la sèvre
+Vous cheminerez en suivant la sèvre sur votre gauche une farandole de champ sur votre droite. vous passerez devant les **écluses**.
 
-![port_boinot](./images/balade_01_ecluses.png)
+![ecluses](./images/balade_01_ecluses.png)
 
-adipiscing elit. Quisque at gravida lectus. Donec eu neque cursus, ultricies nibh luctus, tincidunt nunc. In imperdiet, sapien vel molestie hendrerit, justo eros rutrum risus, et rhoncus lectus magna rhoncus tortor. Integer nec dolor vitae eros mollis mollis at vel quam. Aenean neque nisi, mollis eget eros et, consequat condimentum enim. Cras pulvinar tempor blandit. Cras viverra faucibus mi. Integer faucibus nulla vel erat ornare, ac fringilla ligula convallis. Ut risus ligula, viverra et erat ut, pulvinar egestas erat. Vivamus felis sem, euismod nec maximus a, scelerisque id dui. Duis fringilla, dui vitae convallis aliquam, mi neque molestie ante, id iaculis neque orci eu nulla. Aenean ut pellentesque eros. Praesent ac odio et lorem dapibus lobortis at quis leo.
-
-Maecenas enim velit, porta et dapibus vel, vulputate vel enim. Proin pretium vitae lorem vel ornare. Proin efficitur a est vitae blandit. Vestibulum ex justo, ullamcorper quis aliquet vitae, facilisis eget metus. Donec consequat leo porta elit lacinia, ac condimentum ligula eleifend. Maecenas in orci tincidunt, dignissim massa tristique, euismod lorem. Sed est nisi, volutpat id sapien eu, tempor dapibus purus. Maecenas a faucibus risus. Aenean varius velit mi, sit amet venenatis dolor egestas in. Praesent interdum volutpat erat ut rhoncus.
+Encore quelques coup de pédales est vous serez arrivé Coulon que vous traversez pour arriver sur un parc où vous pourrez pique-niquer.
+Vous pouvez poser pied à terre vous êtes arrivés.
 
 [^1]: [Société d'horticulture](https://sh79.jimdofree.com/)
 
