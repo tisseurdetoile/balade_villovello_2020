@@ -4,18 +4,18 @@ title: Balades pour cycliste starter pack 2020
 
 ## Avant de partir
 
-Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de ce balader cheveux au vent au guidon de votre petite reine qui ne demande qu'a parcourir de nouveau horion. [\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quattres balades de 20km à 35km faciles et accessible. De bonne idée pour un pic-nique. Quatre sorties pour découvrir les alentours de notre belle ville de niort.
+Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de se balader cheveux au vent au guidon de votre petite reine qui ne demande qu'à rouler vers de nouveaux horizons. [\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quatres balades de 20km à 35km faciles et accessible. De bonnes idées pour un pique-nique. Quatre sorties pour découvrir les alentours de notre belle ville de niort.
 
-Avant de sauter sur votre fidèle destrier rappelons que vous devez vérifier au minimum (la pression des pneus, les freins, l'état général du vélo et la météo). Un problème évité c'est autant de plaisir gagné. Emportez aussi de quoi vous désaltérer et vous sustentez durant votre balade.
+Avant de sauter sur votre fidèle destrier rappelons que vous devez vérifier au minimum (la pression des pneus, les freins, l'état général du vélo et la météo). Un problème évité c'est autant de plaisir gagné. Emportez aussi de quoi vous désaltérer et vous sustenter durant votre balade.
 
-1. Le marais par la sèvres
+1. Le marais par la Sèvre
 1. balade 2
 1. balade 3
 1. balade 4
 
 ![carte general](./images/carte_generale.png)
 
-## Le marais par la sèvres
+## Le marais par la Sèvre
 
 ![carte_balade_01](./images/balade_01_carte.png)
 
@@ -27,22 +27,22 @@ Avant de sauter sur votre fidèle destrier rappelons que vous devez vérifier au
 
 ![port_boinot](./images/balade_01_port_boinot.png)
 
-**Départ de port Boinot** Suivre le quai metayer qui longe la sèvre.
-Au fil du chemin vous passerez en face des jardins familiaux de la société d'horticulture des deux-sèvres [^1], plus loin vous aurez une vue imprenable sur la base nautique et le parc des expositions de Niort.
-Passez sous le pont du boulevard Willy Brand vous suivrez un chemin de terre entre sèvre et champs.
+**Départ de Port Boinot** Suivre le quai Metayer qui longe la Sèvre.
+Au fil du chemin vous passerez en face des jardins familiaux de la société d'horticulture des Deux-Sèvres [^1], plus loin vous aurez une vue imprenable sur la base nautique et le parc des expositions de Niort.
+Passez sous le pont du boulevard Willy Brandt vous suivrez un chemin de terre entre Sèvre et champs.
 
 ![pont_roussille](./images/balade_01_roussille.png)
 
-Arrivé en vue du **pont de la Roussile** vous devrez le traverser pour poursuivre votre chemin dans le marais en direction de Magné. L'entrée de la ville est marqué par un **pont vert à bascule**, ne le prenez pas tourner à droite sur le chemin de terre.
+Arrivé en vue du **Pont de la Roussile** traversez-le pour poursuivre votre chemin dans le marais en direction de Magné. L'entrée de la ville est marquée par un **pont vert à bascule**, ne le prenez pas et tournez à droite sur le chemin de terre.
 
 ![pont_bascule_magne](./images/balade_01_pont.png)
 
-Vous cheminerez en suivant la sèvre sur votre gauche une farandole de champ sur votre droite. vous passerez devant les **écluses**.
+Vous cheminerez en suivant la Sèvre sur votre gauche une farandole de champs et prairies sur votre droite. Vous passerez devant les **écluses**.
 
 ![ecluses](./images/balade_01_ecluses.png)
 
-Encore quelques coup de pédales est vous serez arrivé Coulon que vous traversez pour arriver sur un parc où vous pourrez pique-niquer.
-Vous pouvez poser pied à terre vous êtes arrivés.
+Encore quelques coups de pédales et vous serez arrivés a Coulon que vous traverserez pour arriver sur un parc où vous pourrez pique-niquer.
+Vous pouvez poser pied à terre vous êtes arrivés.Vous pouvez également choisir un des nombreux restaurants sur le Bord de la Sèvres. Enfin, le Département vient d'ouvrir une Maison du Marais dédiée au tourisme sur la place de la Coutume. Prenez le temps de la visiter.
 
 [^1]: [Société d'horticulture](https://sh79.jimdofree.com/)
 
