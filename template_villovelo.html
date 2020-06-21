@@ -36,7 +36,7 @@
   </head>
 
   <body>
-    <a name="top" />
+    <a name="top"></a>
     $for(include-before)$ $include-before$ $endfor$ $if(title)$
     <header id="title-block-header">
       <div class="overlay">
@@ -49,12 +49,30 @@
         <p class="date">$date$</p>
         $endif$
         <div id="logo">
-          <!-- <a href="http://www.perdU.com"><img src="./images/logo.png" /></a> -->
           <a href="https://www.villovelo.org/" class="logovillovelo"></a>
         </div>
       </div>
     </header>
-    $endif$ $if(toc)$
+    $endif$
+    <h2 id="avant-de-partir">Avant de partir</h2>
+    <p>
+      Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi
+      de mieux que de se balader cheveux au vent au guidon de votre petite reine
+      qui ne demande qu’à rouler vers de nouveaux horizons.
+      <a href="https://twitter.com/VillOvelO">@VilliVelo</a> vous proposes des
+      balades de 20km à 35km faciles et accessible. De bonnes idées pour un
+      pique-nique. Quatre sorties pour découvrir les alentours de notre belle
+      ville de niort.
+    </p>
+    <p>
+      Avant de sauter sur votre fidèle destrier rappelons que vous devez
+      vérifier au minimum (la pression des pneus, les freins, l’état général du
+      vélo et la météo). Un problème évité c’est autant de plaisir gagné.
+      Emportez aussi de quoi vous désaltérer et vous sustenter durant votre
+      balade.
+    </p>
+    <h2>$pagetitle$</h2>
+    $if(toc)$
     <nav id="$idprefix$TOC" role="doc-toc">
       $if(toc-title)$
       <h2 id="$idprefix$toc-title">$toc-title$</h2>
