@@ -1,16 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1" creator="https://www.komoot.de" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="https://www.komoot.de" 
+  xmlns="http://www.topografix.com/GPX/1/1" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Le marais par la sèvre</name>
+    <name>Le marais par la Sèvre</name>
     <author>
-      <link href="https://www.komoot.de">
-        <text>komoot</text>
+      <name>Le tisseurDeToile</name>
+      <link href="http://www.tisseurdetoile.net">
+        <text>Le TisseurDeToile</text>
+        <type>text/html</type>
+      </link>
+      <link href="https://www.villovelo.org/">
+        <text>VilloVelo</text>
         <type>text/html</type>
       </link>
     </author>
   </metadata>
   <trk>
-    <name>Le marais par la sèvre</name>
+    <name>Le marais par la Sèvre</name>
     <trkseg>
       <trkpt lat="46.325261" lon="-0.469484">
         <ele>12.269234</ele>
