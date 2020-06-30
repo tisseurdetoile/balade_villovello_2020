@@ -9,7 +9,7 @@ title: Le marais par la Sèvre
 - idéal pour une balade familiale
 - la classique des classiques
 - liens vers le tracé [ici](https://villovelo.github.io/balade_2020/gpx/balade_01.gpx)
-- liens vers la version [html](https://villovelo.github.io/balade_2020/balade_01.html)
+- liens vers la version [html](https://villovelo.github.io/balade_2020/balade_01.html?source=pdf)
 - liens vers la version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
 
 ![port_boinot](./images/balade_01_port_boinot.png)
