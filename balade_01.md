@@ -4,11 +4,13 @@ title: Le marais par la Sèvre
 
 ![carte_balade_01](./images/balade_01_carte.png)
 
-- Départ:Niort -> Arrivé:Coulon 17 km
+- Départ : Niort -> Arrivé : Coulon (17 km)
 - 90 % de chemin sans voiture
 - idéal pour une balade familiale
 - la classique des classiques
-- liens vers le tracé [ici](./gpx/balade_01.gpx)
+- liens vers le tracé [ici](https://villovelo.github.io/balade_2020/gpx/balade_01.gpx)
+- liens vers la version [html](https://villovelo.github.io/balade_2020/balade_01.html)
+- liens vers la version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
 
 ![port_boinot](./images/balade_01_port_boinot.png)
 
