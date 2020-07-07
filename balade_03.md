@@ -4,7 +4,7 @@ title: Celles-sur-Belle voir Melle
 
 ![carte_balade_03](./images/balade_03_carte.png)
 
-- 📍:Niort -> Celles-sur-Belle -> 🏁:Melle 🚲:35 km
+- Départ : Niort -> Arrivé Celles-sur-Belle / Melle (35 km)
 - 60 % de chemin sans voiture
 - Découverte du [ruban vert](https://www.af3v.org/les-voies-vertes/voies/141-le-ruban-vert-de-melle-a-celles-sur-belle/)
 - possibilité de s'arreter à Celles sur Belle
@@ -27,12 +27,13 @@ Le Ruban Vert suit une ancienne voie ferrée entre Melle et Celles-sur-Belle. Ce
 ![celles sur belle](./images/balade_03_cellesbelle.png)
 
 A la sortie de la première partie du ruban vert prenez à gauche et cheminez jusqu'au centre ville de Celles sur Belle. Noter bien si vous voulez continuer le ruban vert en direction de Melle vous devez prendre **la route de vitré**
-Penser bien a y revenir après avoir visiter L'abbaye royale Notre-Dame.
+Penser bien a y revenir après avoir visiter L'abbaye royale Notre-Dame. Vous pouvez terminer la balade ici et retourner sur vos traces. Pour poursuivre jusqu'à Melle revenez sur la route de vitré.
 
 ![ruban vert p2](./images/balade_03_ruban_vert_p2.png)
 
 En continuant la route de vitré vous retrouverez les indications pour accéder à la deuxième partir du ruban vert.
-Vous voilà lancer en direction de Melle cette partie parait un peu plus sauvage. Veuillez respecter les panneaux Stop il seront moins nombreux sur cette partie. La trace ce termine au Camping de Melle où vous pourrez remplir vos Gourdes. D'ici vous pouvez visiter Melle[^2], cheminer le long de l'arboretum du chemin de la Découverte.
+Vous voilà lancer en direction de Melle cette partie parait un peu plus sauvage. Veuillez respecter les panneaux Stop il seront moins nombreux sur cette partie. La trace ce termine au Camping de Melle[^2] où vous pourrez remplir vos Gourdes. D'ici vous pouvez visiter Melle[^3], cheminer le long de l'arboretum du chemin de la Découverte.
 
 [^1]: [ruban vert](https://www.af3v.org/les-voies-vertes/voies/141-le-ruban-vert-de-melle-a-celles-sur-belle/)
-[^2]: [Office de tourisme du Mellois](https://decouvertes.paysmellois.org/)
+[^2]: [Camping de mon village de Melle](https://campingcarpark.com/shop/sejour/nouvelle-aquitaine/camping-de-village-area-of-melle/)
+[^3]: [Office de tourisme du Mellois](https://decouvertes.paysmellois.org/)
