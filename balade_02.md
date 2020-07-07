@@ -4,7 +4,7 @@ title: Boucle château de Coudray-Salbart
 
 ![carte_balade_02](./images/balade_02_carte.png)
 
-- Départ : Niort -> Coudray-Salbart -> Arrivée : Niort (24 km)
+- Départ : Niort <-> Coudray-Salbart (24 km)
 - 35 % de chemin sans voiture
 - balade familiale (⚠️ : vous croiserez des voitures)
 - quelques montées
