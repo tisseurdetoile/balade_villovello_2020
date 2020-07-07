@@ -4,12 +4,12 @@ title: Boucle chateau de Coudray-Salbart
 
 ![carte_balade_02](./images/balade_02_carte.png)
 
-- Départ:Niort -> Coudray-Salbart -> Arrivé:Niort 24 km
+- Départ : Niort -> Coudray-Salbart -> Arrivé : Niort (24 km)
 - 35 % de chemin sans voiture
 - balade familiale (⚠️ : vous croiserez des voiture)
 - quelques montées
 - beaux tronçons ombragés (bien en été)
-- liens vers le tracé [ici](./gpx/balade_02.gpx)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_02.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_02.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_02.pdf)
 
 ![pre-leroy](./images/balade_02_pre-leroy.png)
 
