@@ -27,7 +27,7 @@ Le Ruban Vert est la reconversion en chemin de l'ancienne voie ferrée entre Mel
 ![Celles-sur-Belle](./images/balade_03_cellesbelle.png)
 
 A la fin de la première partie du Ruban Vert prenez à gauche et cheminez jusqu'au centre ville de Celles-sur-Belle.
-Vous pouvez y faire une halte prolongée en visitant l'Abbaye Royale Notre-Dame ou choisir votre casse-croûte du soir à la Maison des Fromages de Chèvre (http://www.maisondesfromagesdechevre.com/)
+Vous pouvez y faire une halte prolongée en visitant l'Abbaye Royale Notre-Dame ou choisir votre casse-croûte du soir à la Maison des [Fromages de Chèvre](http://www.maisondesfromagesdechevre.com/)
 Si vous souhaitez continuer vers Melle, dirigez-vous vers la **Route de Vitré**
 
 ![Ruban Vert p2](./images/balade_03_ruban_vert_p2.png)
