@@ -24,7 +24,7 @@ balade_02 jpg : wkhtmltoimage --crop-x 212 --crop-y 100 --crop-w 599 https://tis
 balade_02 pdf : wkhtmltopdf --page-width 140 --page-height 1000 https://tisseurdetoile.github.io/balade_villovello_2020/balade_02.html balade_02.pdf
 
 balade_03 html : pandoc balade_03.md -o balade_03.html --template ./template_villovelo.html
-balade_03 jpg : wkhtmltoimage --crop-x 212 --crop-y 100 --crop-w 599 http://localhost/balade_02.html balade_02.jpg
-balade_03 pdf : wkhtmltopdf --page-width 140 --page-height 880 https://tisseurdetoile.github.io/balade_villovello_2020/balade_03.html balade_03.pdf
+balade_03 jpg : wkhtmltoimage --crop-x 212 --crop-y 100 --crop-w 599 https://villovelo.github.io/balade_2020/balade_03.html balade_03.jpg
+balade_03 pdf : wkhtmltopdf --page-width 140 --page-height 900 https://villovelo.github.io/balade_2020/balade_03.html balade_03.pdf
 
 pandoc index.md -o index.html --template ./template_villovelo.html
