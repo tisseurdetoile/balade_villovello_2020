@@ -8,7 +8,7 @@ title: Le marais par la Sèvre
 - 90 % de chemin sans voiture
 - idéal pour une balade familiale
 - la classique des classiques
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_01.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_01.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_01.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_01.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
 
 ![port_boinot](./images/balade_01_port_boinot.png)
 

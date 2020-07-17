@@ -10,7 +10,7 @@ title: En route vers le Mellois
 - possibilité de prolonger la halte à Celles sur Belle
 - possibilité de [camper à Melle](https://mairie-melle.fr/component/content/article?id=38:hebergement) (aire de camping car)
 - le Ruban Vert est un léger plat montant
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_03.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_03.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_03.pdf)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_03.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_03.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_03.pdf)
 
 ![la Brèche](./images/balade_03_breche.png)
 

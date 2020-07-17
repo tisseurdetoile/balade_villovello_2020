@@ -12,7 +12,7 @@ title: Quattre idées balades en vélo pour 2020
 - 90 % de chemin sans voiture
 - idéal pour une balade familiale
 - la classique des classiques
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_01.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_01.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_01.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_01.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_01.pdf)
 
 La balade familiale par excellence une majorité de route sans croiser de voiture. Plus d'information [ici](https://villovelo.github.io/balade_2020/balade_01.html?source=index)
 
@@ -25,7 +25,8 @@ La balade familiale par excellence une majorité de route sans croiser de voitur
 - balade familiale (⚠️ : vous croiserez des voitures)
 - quelques montées
 - beaux tronçons ombragés (bien en été)
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_02.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_02.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_02.pdf)
+  balade_01.gpx
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_02.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_02.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_02.pdf)
 
 A la découverte du château de Coudray-Salbart boucle sur un autre bord de la Sèvre. Attention vous empreinterez des routes que vous partagerez avec les voitures. Plus d'information [ici](https://villovelo.github.io/balade_2020/balade_02.html?source=index)
 
@@ -39,7 +40,7 @@ A la découverte du château de Coudray-Salbart boucle sur un autre bord de la S
 - possibilité de prolonger la halte à Celles sur Belle
 - possibilité de [camper à Melle](https://mairie-melle.fr/component/content/article?id=38:hebergement) (aire de camping car)
 - le Ruban Vert est un léger plat montant
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_03.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_03.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_03.pdf)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_03.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_03.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_03.pdf)
 
 A quelques kilomètres de Niort, Le Ruban Vert un itinéraire apaisé pour cheminer dans le Mellois.
 

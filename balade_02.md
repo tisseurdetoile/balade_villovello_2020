@@ -9,7 +9,7 @@ title: Boucle château de Coudray-Salbart
 - balade familiale (⚠️ : vous croiserez des voitures)
 - quelques montées
 - beaux tronçons ombragés (bien en été)
-- Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_02.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_02.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_02.pdf)
+- Le tracé [GPX](https://villovelo.github.io/balade_2020/voir_trace.html?trace=./gpx/balade_02.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_02.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_02.pdf)
 
 ![pre-leroy](./images/balade_02_pre-leroy.png)
 
