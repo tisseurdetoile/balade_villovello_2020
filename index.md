@@ -41,6 +41,6 @@ A la découverte du château de Coudray-Salbart boucle sur un autre bord de la S
 - le Ruban Vert est un léger plat montant
 - Le tracé [GPX](https://villovelo.github.io/balade_2020/gpx/balade_03.gpx) | Version [web](https://villovelo.github.io/balade_2020/balade_03.html?source=pdf) | Version [pdf](https://villovelo.github.io/balade_2020/balade_03.pdf)
 
-A quelques kilomètres de Niort, Le Ruban Vert un itinéraire apaisé pour cheminé dans le Mellois.
+A quelques kilomètres de Niort, Le Ruban Vert un itinéraire apaisé pour cheminer dans le Mellois.
 
 ## Quatrième balade : Bientôt
