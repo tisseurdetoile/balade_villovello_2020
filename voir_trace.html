@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+      crossorigin=""
+    />
+    <style>
+      h1,
+      h2,
+      h3 {
+        font-family: sans-serif;
+      }
+
+      p {
+        font-family: sans-serif;
+      }
+
+      #map {
+        height: 500px;
+        width: 100%;
+      }
+
+      .chart {
+        height: 400px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h3 id="track-name"></h3>
+
+    <p>Distance total: <span id="totalDistance"></span> km</p>
+
+    <p>Télécharger la trace: <a id="gpxDownload"></a></p>
+
+    <div id="map"></div>
+
+    <div class="chart" id="altitude"></div>
+
+    <script src="./lib/gpx-parser.js"></script>
+    <script
+      src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+      integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+      crossorigin=""
+    ></script>
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+    <script>
+      let mymap = L.map('map')
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 50,
+      }).addTo(mymap)
+
+      function drawTrack(track) {
+        let coordinates = track.points.map((p) => [
+          p.lat.toFixed(5),
+          p.lon.toFixed(5),
+        ])
+
+        var polyline = L.polyline(coordinates, {
+          weight: 6,
+          color: 'darkred',
+        }).addTo(mymap)
+
+        // zoom the map to the polyline
+        mymap.fitBounds(polyline.getBounds())
+      }
+    </script>
+
+    <script>
+      var url_string = window.location.href
+      var url = new URL(url_string)
+      var trackPath = url.searchParams.get('trace')
+
+      fetch(trackPath)
+        .then(function (response) {
+          return response.text()
+        })
+        .then(function (gpxData) {
+          let gpx = new gpxParser()
+          gpx.parse(gpxData)
+
+          document.getElementById('track-name').innerText = gpx.tracks[0].name
+
+          document.getElementById('totalDistance').innerText = (
+            gpx.tracks[0].distance.total / 1000
+          ).toFixed(3)
+
+          document.getElementById('gpxDownload').innerText = trackPath
+          document.getElementById('gpxDownload').setAttribute('href', trackPath)
+
+          drawTrack(gpx.tracks[0])
+          drawAltitudeChart(gpx.tracks[0])
+        })
+    </script>
+
+    <script>
+      /**
+       * Returns an array of time - ground speed for each track point (that has a time value).
+       *
+       * @param track
+       */
+      function getGroundSpeedData(track) {
+        let result = []
+
+        let gpx = new gpxParser()
+
+        let points = track.points.filter((p) => p.time !== null)
+
+        let previousPoint = null
+
+        for (let i = 0; i < points.length; i++) {
+          let point = points[i]
+
+          if (previousPoint) {
+            // in seconds
+            let time = Math.abs(point.time - previousPoint.time) / 1000
+
+            if (time < 5) {
+              continue
+            }
+
+            // in nm (nautical miles)
+            let distance =
+              gpx.calcDistanceBetween(previousPoint, point) * 0.539957
+
+            let speedInKmPerHour = ((distance / time) * 3600) / 1000
+
+            result.push([point.time.getTime(), speedInKmPerHour])
+          }
+
+          previousPoint = point
+        }
+
+        return result
+      }
+
+      function drawAltitudeChart(track) {
+        let dataPoints = track.points
+          .filter((p) => p.time !== null)
+          .map((p) => [p.time, p.ele * 3.28084])
+
+        Highcharts.chart('altitude', {
+          chart: {
+            type: 'area',
+          },
+          title: {
+            text: 'Altitude (ft)',
+          },
+          subtitle: {
+            text: 'Altitude en route',
+          },
+          xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: {
+              month: '%e. %b',
+              year: '%b',
+            },
+            title: {
+              text: 'Date',
+            },
+          },
+          yAxis: {
+            title: {
+              text: 'Altitude (ft)',
+            },
+          },
+          tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b %H:%M}: {point.y:.2f} ft',
+          },
+
+          plotOptions: {
+            spline: {
+              marker: {
+                enabled: true,
+              },
+            },
+          },
+
+          colors: ['#6CF', '#39F', '#06C', '#036', '#000'],
+
+          series: [
+            {
+              name: 'Altitude (ft)',
+              data: dataPoints,
+            },
+          ],
+
+          time: { useUTC: false },
+        })
+      }
+
+      function drawGroundSpeedChart(dataPoints) {
+        Highcharts.chart('groundSpeed', {
+          chart: {
+            type: 'area',
+          },
+          title: {
+            text: 'Ground speed (kts)',
+          },
+          subtitle: {
+            text: 'Ground speed',
+          },
+          xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: {
+              month: '%e. %b',
+              year: '%b',
+            },
+            title: {
+              text: 'Date',
+            },
+          },
+          yAxis: {
+            title: {
+              text: 'Ground speed (kts)',
+            },
+          },
+          tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b %H:%M}: {point.y:.2f} kts',
+          },
+
+          plotOptions: {
+            spline: {
+              marker: {
+                enabled: true,
+              },
+            },
+          },
+
+          colors: ['#6CF', '#39F', '#06C', '#036', '#000'],
+
+          series: [
+            {
+              name: 'Ground speed (kts)',
+              data: dataPoints,
+            },
+          ],
+
+          time: { useUTC: false },
+        })
+      }
+    </script>
+  </body>
+</html>
