@@ -131,3 +131,15 @@ h1 {
 .logovillovelo:hover {
   background-image: url('./images/logo.png');
 }
+
+@media screen {
+  #qrcode-include {
+    display: none;
+  }
+}
+
+@media print {
+  #qrcode-include {
+    display: inline;
+  }
+}

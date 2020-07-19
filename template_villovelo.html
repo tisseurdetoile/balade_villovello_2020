@@ -19,6 +19,7 @@
       content="width=device-width, initial-scale=1.0, user-scalable=yes"
     />
     <script type="text/javascript" src="lib/social-include.js"></script>
+    <script type="text/javascript" src="lib/qrcode.min.js"></script>
     $for(author-meta)$
     <meta name="author" content="$author-meta$" />
     $endfor$ $if(date-meta)$
@@ -208,5 +209,13 @@
       </a>
     </div>
     <!-- social-include end -->
+    <div id="qrcode-include">
+      <center>
+        <div id="qrcode"></div>
+      </center>
+    </div>
+    <script type="text/javascript">
+      new QRCode(document.getElementById('qrcode'), window.location.href)
+    </script>
   </body>
 </html>
