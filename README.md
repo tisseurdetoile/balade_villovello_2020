@@ -1,6 +1,6 @@
 # Balade avec [\@Villovelo](https://twitter.com/villovelo) pour vous weekend de vacances autour de Niort.
 
-Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de se balader cheveux au vent au guidon de votre petite reine qui ne demande qu'à rouler vers de nouveaux horizons. [\@VilliVelo](https://twitter.com/VillOvelO) vous proposes quatres balades de 20km à 35km faciles et accessible. De bonnes idées pour un pique-nique. Quatre sorties pour découvrir les alentours de notre belle ville de niort.
+Les beaux jours sont là, une grande envie de liberté se fait sentir. Quoi de mieux que de se balader cheveux au vent au guidon de votre petite reine qui ne demande qu'à rouler vers de nouveaux horizons. [\@VilloVelo](https://twitter.com/VillOvelO) vous proposes quatres balades de 20km à 35km faciles et accessible. De bonnes idées pour un pique-nique. Quatre sorties pour découvrir les alentours de notre belle ville de niort.
 
 Avant de sauter sur votre fidèle destrier rappelons que vous devez vérifier au minimum (la pression des pneus, les freins, l'état général du vélo et la météo). Un problème évité c'est autant de plaisir gagné. Emportez aussi de quoi vous désaltérer et vous sustenter durant votre balade.
 
@@ -31,5 +31,5 @@ wkhtmltoimage --crop-x 212 --crop-y 100 --crop-w 599 https://villovelo.github.io
 ## Remerciement
 
 - Barbara et Patrice pour leurs corrections et avis.
-- [\@VilliVelo](https://twitter.com/VillOvelO) pour le support
+- [\@VilloVelo](https://twitter.com/VillOvelO) pour le support
 - [@furtif](https://twitter.com/furtif) et [@lamap](https://twitter.com/lamap) pour l'accélération car cet idée ça faisait un bail que je voulais le faire. Bravo à vous.
